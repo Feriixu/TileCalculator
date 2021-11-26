@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonAddText">+</string>
+    <string name="buttonSubtractText">−</string>
+    <string name="textNumberDefault">0</string>
+    <string name="buttonDivideText">÷</string>
+    <string name="buttonMultiplyText">×</string>
+    <string name="buttonNegateText">+/-</string>
+    <string name="buttonCommaText">.</string>
+    <string name="buttonEqualsText">=</string>
+    <string name="buttonPowText">^</string>
+    <string name="buttonBackText">C</string>
+    <string name="buttonClearText">CE</string>
+</resources>
